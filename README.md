@@ -3,8 +3,8 @@ Homework for the Parallel and Distributed Algorithms course @ ACS, UPB 2019
 
 # How to run:
 
-./parallelFT inputValues.txt outputValues.txt numThreads
-./parallelFFT inputValues.txt outputValues.txt numThreads
+- `./parallelFT inputValues.txt outputValues.txt numThreads`
+- `./parallelFFT inputValues.txt outputValues.txt numThreads`
 
 The input file format:
 

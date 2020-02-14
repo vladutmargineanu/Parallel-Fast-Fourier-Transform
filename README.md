@@ -13,6 +13,7 @@ The input file format:
 - `value2`
 - `...`
 - `valueN`
+
 The output file format:
 
 - `N // number of complex type values represented as pairs of doubles`
